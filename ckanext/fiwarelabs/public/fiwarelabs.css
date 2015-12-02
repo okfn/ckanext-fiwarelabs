@@ -1,0 +1,77 @@
+body{
+  font-family: OpenSans, Arial, sans-serif;
+  background-color:  #fcfcfc;
+
+}
+
+.hero{
+  background: #eeeeee url("../../../base/images/bg.png");
+  min-height: auto;
+}
+.account-masthead,
+
+
+.homepage .module-search .module-content {
+  -webkit-border-radius: 3px 3px 0 0;
+  -moz-border-radius: 3px 3px 0 0;
+  border-radius: 3px 3px 0 0;
+  background-color: #002D67;
+  background-image:url('/images/bgsearch.png');
+  background-size:375px 125px;
+  background-repeat:no-repeat;
+  background-position:right;
+  border-bottom: none;
+}
+
+.homepage .module-search .tags {
+  padding: 5px 10px 10px 10px;
+  background-color: #002D67;
+  -webkit-border-radius: 0 0 3px 3px;
+  -moz-border-radius: 0 0 3px 3px;
+  border-radius: 0 0 3px 3px;
+}
+
+.masthead {
+  background-color: #F5F5F5;
+  color:black;
+}
+
+.logo img {
+  max-width = 50%;
+
+}
+
+.masthead .navigation .nav-pills li a:link {
+  color: #002D67;
+}
+
+.masthead .navigation .nav-pills li a:visited {
+  color: #002D67;
+}
+
+
+.masthead .navigation .nav-pills li a:hover,
+.masthead .navigation .nav-pills li.active a{
+  background-color: #E2E2E2;
+  color:  #0093c6;
+}
+
+
+.footer-links ul {
+  width: 1100px
+}
+
+.site-footer {
+    background-color:  #fcfcfc;
+    color:  #002d67;
+    font-size: 90%;
+}
+
+.site-footer a:link, .site-footer a:visited {
+    color:  #002d67;
+}
+
+
+.btn-primary {
+  background-color: #002d67;
+}
